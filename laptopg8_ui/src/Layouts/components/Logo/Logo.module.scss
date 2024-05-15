@@ -1,0 +1,10 @@
+.wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.wrapper img {
+    max-width: 220px;
+    max-height: 90%;
+    object-fit: cover;
+}
