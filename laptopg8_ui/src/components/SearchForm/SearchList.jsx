@@ -1,5 +1,4 @@
 import Tippy from "@tippyjs/react/headless";
-import { v4 } from "uuid";
 import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
 
