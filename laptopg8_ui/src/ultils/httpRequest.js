@@ -1,6 +1,6 @@
 import axios from 'axios';
 const httpRequest = axios.create({
-    baseURL: 'http://localhost/Laptop68/controllers/',
+    baseURL: 'http://localhost/laptopg8/controllers/',
 });
 
 export const get = async (path, option = {}) => {
