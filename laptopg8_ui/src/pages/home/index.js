@@ -5,7 +5,7 @@ import ProductsIntro from '~/components/ProductsIntro';
 
 import { getall } from '~/ultils/services/categoriesService';
 import { useEffect, useState } from 'react';
-import { v4 } from 'uuid';//sinh id
+import { v4 } from 'uuid';
 
 const cx = classNames.bind(styles);
 
